@@ -23,7 +23,7 @@ To get to use this program, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/Shubh2-0/File_Operations_in_Java.git
+   git clone https://github.com/Alex-Oduor/Task-Manager-In-Java.git
    ```
 
 2. Navigate to the project directory of your choice:
