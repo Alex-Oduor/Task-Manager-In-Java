@@ -48,6 +48,6 @@ If you want to contact me, you can reach me through below handles.
   
   <a title="alexoduor183@gmail.com" href="mailto:alexoduor183@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
   <a href="https://wa.me/+254794510826" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
-  <a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px"  alt="whatsapp-me" /></a>&emsp; 
+
 
  </p>
